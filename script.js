@@ -7,6 +7,7 @@ checkBoxes()
 
 function checkBoxes() {
     const triggerBottom = window.innerHeight / 5 * 4
+    shado inter
 
     boxes.forEach(box => {
         const boxTop = box.getBoundingClientRect().top
