@@ -21,4 +21,4 @@ function checkBoxes() {
     })
 }
 //ali motahari (:
-// حوصله کامنت ندارم سعی کنید متوجه شید
+//code
